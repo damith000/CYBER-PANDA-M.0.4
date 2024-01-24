@@ -21,15 +21,16 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.Owner = ["+94789932902", "+94768057442"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94768057442"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94768057442"];
+global.OwnerName = "𝓓a҈м𝔦𝕥h͟  ";
+global.BotName = "S͟t͟i͟c͟k͟e͟r͟ l͟a͟n͟d͟ b͟o͟t͟ ☯";
+global.packname = "🦋 │s͟t͟i͟c͟k͟e͟r͟ l͟a͟n͟d͟ ⚛";                             //Do not change.
+global.author = "𝓓a҈м𝔦𝕥h͟ ";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://chat.whatsapp.com/KwhBPTk1yvWLrpmGcgdA2h / https://wa.me//94768057442
+";
 
 
 //
@@ -41,12 +42,12 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "HambanThota, Sri Lankan";
+global.location = "Sri Lanka";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "Sachith";
+global.lolhuman = "𝓓a҈м𝔦𝕥h͟  ";
 
 
 //
